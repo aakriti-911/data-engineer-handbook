@@ -256,4 +256,4 @@ FROM players
 WHERE current_season = 2021
 AND scoring_class = 'star'
 
--- You can do easy analysis on cumulative tables and you don't have to do any shuffle, any group bys
+-- You can do easy analysis on cumulative tables and you don't have to do any shuffle, any groupbys
